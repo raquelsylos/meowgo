@@ -12,7 +12,7 @@ const Card = ({ card, flipped, onClick }) => {
           <img src={card.image} alt="Cat Card Front" />
         </div>
 
-        <div className="card-back">😺</div>
+        <div className="card-back">🐾</div>
       </div>
     </div>
   );
